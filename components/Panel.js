@@ -241,7 +241,6 @@ const SwipeablePanelStyles = StyleSheet.create({
   },
   panel: {
     position: "absolute",
-    height: PANEL_HEIGHT,
     width: FULL_WIDTH - 50,
     transform: [{ translateY: FULL_HEIGHT - 100 }],
     display: "flex",
